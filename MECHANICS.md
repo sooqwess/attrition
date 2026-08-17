@@ -166,7 +166,7 @@ Everything here is implemented in the datapack. Nothing in this list is a plan.
 64. Bleeding above 60 applies weakness.
 65. Bleeding above 100 applies mining fatigue.
 66. Crouching with a bandage in hand stops 50 bleed per application.
-67. Bandages are craftable from paper and string.
+67. Bandages are craftable from three paper and two string, and yield a single bandage.
 68. Sleeping removes 40 bleed.
 69. Bleeding out is a real cause of death with its own death message.
 
@@ -191,7 +191,7 @@ Everything here is implemented in the datapack. Nothing in this list is a plan.
 83. Fractures cut movement speed by 20%.
 84. Fractures cut jump strength by 40%.
 85. A splint removes 400 fracture ticks.
-86. Splints are craftable from sticks and string.
+86. Splints are craftable from three sticks, two string and leather, and yield a single splint.
 87. Sleeping removes 300 fracture ticks.
 
 ## Temperature
